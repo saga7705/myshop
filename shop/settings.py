@@ -25,7 +25,7 @@ SECRET_KEY = 'dwpv7a7#%^7vc2ru=uifn40_19g@(0xw5sp5yr7^9a0^4#d(lb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Saga7705.pythonanywhere.com']
 
 
 # Application definition
